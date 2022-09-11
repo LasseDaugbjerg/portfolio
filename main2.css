@@ -1,0 +1,15 @@
+#Menu {
+    color: red;
+}
+li.Menu3 {
+    color: brown;
+}
+.Menu2{
+    color: darkgreen;
+}
+.Menu2 h2 {
+    font-size: 40px;
+}
+.Menu3 {
+    flex-direction: row;
+}
